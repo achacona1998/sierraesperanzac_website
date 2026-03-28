@@ -120,7 +120,7 @@ export const TRANSLATIONS = {
         founders: [
           {
             name: "Adrian Castro Sierra",
-            img: "/adrian.avif",
+            img: "/Adrian.avif",
             role: "Chief Marketing Officer (CMO)",
             bio: "Estratega digital con enfoque en crecimiento exponencial y automatización.",
             github: "https://github.com/kastro0005",
@@ -128,7 +128,7 @@ export const TRANSLATIONS = {
           },
           {
             name: "Ariel Chacon Artola",
-            img: "/ariel.avif",
+            img: "/Ariel.avif",
             role: "Chief Technology Officer (CTO)",
             bio: "Arquitecto de software especializado en sistemas distribuidos y UX.",
             github: "https://github.com/achacona1998",
