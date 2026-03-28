@@ -10,20 +10,20 @@ export const TRANSLATIONS = {
       contact: "Contacto",
     },
     cta: { projects: "Ver Proyectos", talk: "Hablemos" },
-     hero: {
-        title: "Desarrollo Web + Marketing Digital",
-        subtitle_phrases: [
-          "Sitios ultrarrápidos",
-          "Campañas que convierten",
-          "Automatización inteligente",
-        ],
-        description:
-          "Transformamos ideas en experiencias digitales de alto impacto. Fusionamos ingeniería de software robusta con estrategias de marketing creativas para escalar tu negocio.",
-        successMessage: "Email enviado correctamente. Te contactaremos pronto.",
-        errorMessage: "Error al enviar el email. Por favor, inténtalo de nuevo.",
-        badge: "Transformamos tu presencia digital",
-        freeAudit: "Audit gratuito incluido",
-      },
+    hero: {
+      title: "Desarrollo Web + Marketing Digital",
+      subtitle_phrases: [
+        "Sitios ultrarrápidos",
+        "Campañas que convierten",
+        "Automatización inteligente",
+      ],
+      description:
+        "Transformamos ideas en experiencias digitales de alto impacto. Fusionamos ingeniería de software robusta con estrategias de marketing creativas para escalar tu negocio.",
+      successMessage: "Email enviado correctamente. Te contactaremos pronto.",
+      errorMessage: "Error al enviar el email. Por favor, inténtalo de nuevo.",
+      badge: "Transformamos tu presencia digital",
+      freeAudit: "Audit gratuito incluido",
+    },
     services: {
       title: "Nuestros Servicios",
       subtitle: "Soluciones integrales para la era digital",
@@ -99,7 +99,8 @@ export const TRANSLATIONS = {
       subtitle: "Ingeniería digital y estrategia de alto nivel",
       description:
         "Sierra Esperanza Creations se consolida como un socio tecnológico estratégico para empresas que buscan escalar. Fusionamos consultoría de negocios, desarrollo de software avanzado y marketing de precisión para construir ecosistemas digitales robustos.",
-      vision: "Impulsar la transformación digital global mediante soluciones que combinan estética, funcionalidad y rentabilidad.",
+      vision:
+        "Impulsar la transformación digital global mediante soluciones que combinan estética, funcionalidad y rentabilidad.",
       values: [
         {
           title: "Excelencia Técnica",
@@ -119,19 +120,20 @@ export const TRANSLATIONS = {
         founders: [
           {
             name: "Adrian Castro Sierra",
-            img:"/public/adrian.avif",
+            img: "/adrian.avif",
             role: "Chief Marketing Officer (CMO)",
             bio: "Estratega digital con enfoque en crecimiento exponencial y automatización.",
-            github:"https://github.com/kastro0005",
-            linkedin:"https://www.linkedin.com/in/adrian-c-sierra-082326280",
+            github: "https://github.com/kastro0005",
+            linkedin: "https://www.linkedin.com/in/adrian-c-sierra-082326280",
           },
           {
             name: "Ariel Chacon Artola",
-            img:"/public/ariel.avif",
+            img: "/ariel.avif",
             role: "Chief Technology Officer (CTO)",
             bio: "Arquitecto de software especializado en sistemas distribuidos y UX.",
-            github:"https://github.com/achacona1998",
-            linkedin:"https://www.linkedin.com/in/ariel-chacon-artola-7a00bb2b4",
+            github: "https://github.com/achacona1998",
+            linkedin:
+              "https://www.linkedin.com/in/ariel-chacon-artola-7a00bb2b4",
           },
         ],
       },
@@ -219,20 +221,20 @@ export const TRANSLATIONS = {
       contact: "Contact",
     },
     cta: { projects: "View Projects", talk: "Let's Talk" },
-     hero: {
-        title: "Web Development + Digital Marketing",
-        subtitle_phrases: [
-          "Ultra-fast sites",
-          "Campaigns that convert",
-          "Smart automation",
-        ],
-        description:
-          "We transform ideas into high-impact digital experiences. We fuse robust software engineering with creative marketing strategies to scale your business.",
-        successMessage: "Email sent successfully. We'll contact you soon.",
-        errorMessage: "Error sending email. Please try again.",
-        badge: "We transform your digital presence",
-        freeAudit: "Free audit included",
-      },
+    hero: {
+      title: "Web Development + Digital Marketing",
+      subtitle_phrases: [
+        "Ultra-fast sites",
+        "Campaigns that convert",
+        "Smart automation",
+      ],
+      description:
+        "We transform ideas into high-impact digital experiences. We fuse robust software engineering with creative marketing strategies to scale your business.",
+      successMessage: "Email sent successfully. We'll contact you soon.",
+      errorMessage: "Error sending email. Please try again.",
+      badge: "We transform your digital presence",
+      freeAudit: "Free audit included",
+    },
     services: {
       title: "Our Services",
       subtitle: "Comprehensive solutions for the digital age",
